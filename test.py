@@ -57,3 +57,5 @@ admin1.create_group("14-1")
 
 mentor1.study()
 mentor1.teach()
+
+print("Hello World")
